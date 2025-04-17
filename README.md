@@ -1,3 +1,16 @@
+# ReshiKa 
+### Платформа разарбатывается в рамке учебного проекта. Тема проекта "Вопросы и Ответы" альтернатива "Ответ Майл.ру" но реализуется с современным интерфейсом. Проект включил бы в ряд соц-цетей чем обычной платформы.
+
+## Первю: 
+### пример главного экрана
+![preview1](src/assets/preview1.png)
+### пример вопросов, ответов и поля ответа
+![preview2](src/assets/preview2.png)
+### пример профиля пользователя
+![preview3](src/assets/preview3.png)
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
