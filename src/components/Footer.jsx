@@ -1,7 +1,11 @@
 import React from 'react'
+import {ContentActions} from "./ContentActions.jsx";
+import "../Styles/FooterStyle.css"
 
 export default function Footer() {
     return (
-        <div>Footer</div>
+        <div className={"Footer"}>
+            <ContentActions/>
+        </div>
     )
 }

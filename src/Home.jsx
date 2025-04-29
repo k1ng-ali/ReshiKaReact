@@ -1,7 +1,5 @@
 import React, {Component} from 'react';
-import Button from "./components/CreatTaskButton.jsx";
 import Content from "./components/Content.jsx";
-
 
 class Home extends Component {
     constructor(props) {
@@ -26,7 +24,6 @@ class Home extends Component {
     render() {
         return (
             <div className={"Home"}>
-                <Button/>
                 <Content posts={this.state.posts}/>
             </div>
         );
